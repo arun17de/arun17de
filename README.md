@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Arun</h1>
-<h3 align="center">A passionate frontend developer from Coimbatore</h3>
+<h1 align="center">Hi , I'm Arun</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunbalaji17de&label=Profile%20views&color=0e75b6&style=flat" alt="arunbalaji17de" /> </p>
-
-- I am currently a Full Stack Development intern at **Stratigo Tech India**
-
-- 🌱 I’m currently learning **HTML , CSS , JavaScript , NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/arunbalajias](https://www.linkedin.com/in/arunbalajias)
 
