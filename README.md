@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunbalaji17de&label=Profile%20views&color=0e75b6&style=flat" alt="arunbalaji17de" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/arunbalajias](https://www.linkedin.com/in/arunbalajias)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
